@@ -23,7 +23,7 @@ Opdracht4 - HTML lay-out elementen
        </article>
        <article>
            <h1 style="color: aquamarine;">Second post</h1>
-           <p>More content nice have to read and for google SEO</p>
+           <p>More content is a nice have and to read for google SEO</p>
            <h4 style="color: blue;">And a subsections in the second post</h4>
        </article>
        <article>
