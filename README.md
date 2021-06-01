@@ -13,7 +13,9 @@ Opdracht4 - HTML lay-out elementen
      <mean>
         <h1 style="color: aqua;">LINKS IN HTML OPDRACHT 3 VAN MAAIKE</h1>
         <h3 style="color: chartreuse;">Hieronder de link naar Winc Academy</h3>
+         <nav>
         <a href="https://www.wincacademy.nl" target="_blank"><h2 style="color: aqua;">Winc Academy</h2></a>
+         </nav>
         <img width="400" heigth="200"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzeN_pLu2BJL8RDF_39l5cVzt5h0EZuUzb9g&usqp=CAU">
         <H3 style="color: rgb(29, 213, 219);">De zweetdruppers missen bij deze studente</H3><hr>
         <article>
