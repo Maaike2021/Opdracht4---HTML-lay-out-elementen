@@ -18,7 +18,7 @@ Opdracht4 - HTML lay-out elementen
         <H3 style="color: rgb(29, 213, 219);">De zweetdruppers missen bij deze studente</H3><hr>
         <article>
           <h1 style="color: aquamarine;">First post</h1>
-          <p>The content in the first post a must have for SEO</p>
+          <p>The content in the first post is a must have for SEO</p>
           <h4 style="color: blue;">And a subsections in the first post</h4>
        </article>
        <article>
