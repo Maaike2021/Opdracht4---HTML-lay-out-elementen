@@ -11,7 +11,7 @@ Opdracht4 - HTML lay-out elementen
     </head>
     <body style="background-color: darkgoldenrod;">
      <mean>
-        <h1 style="color: aqua;">LINKS IN HTML OPDRACHT 3 VAN MAAIKE</h1>
+        <h1 style="color: aqua;">LINKS IN HTML OPDRACHT 4 VAN MAAIKE</h1>
         <h3 style="color: chartreuse;">Hieronder de link naar Winc Academy</h3>
          <nav>
         <a href="https://www.wincacademy.nl" target="_blank"><h2 style="color: aqua;">Winc Academy</h2></a>
